@@ -1,5 +1,3 @@
-
-
 class Node: 
 	def __init__(self, question, correct_answer, difficulty): 
 		self.question = question 
@@ -35,3 +33,4 @@ root = None
 root = insert(root, "Which Confederation(s) have won world cups? ", "COMNEBOL and UEFA", 5)
 
 print(inorder(root))
+
