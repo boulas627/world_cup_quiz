@@ -1,0 +1,17 @@
+{
+	"Question 1": {
+		"question": "What is the furthest the United States have ever gone in a world cup?",
+		"answer": "Semifinals" 
+	},
+
+	"Question 2": {
+		"question": "Which country has won the most world cups?",
+		"answer": "Brazil"
+	}, 
+
+	"Question 3": {
+		"question": "Where is the 2022 world cup being held? ",
+		"answer": "Qatar"
+	}
+	
+}
