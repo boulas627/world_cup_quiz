@@ -33,6 +33,22 @@
 	"Question 7": {
 		"question": "Where will the next world cup in 2026 be held?",
 		"answer": "United States, Canada, Mexico"
+	},
+
+	"Question 8": {
+		"question": "Please name the only African team that has made the semifinals of the world cup?",
+		"answer": "Not Available"
+	},
+
+	"Question 9": {
+		"question": "Please name all countries that have only won one world cup.",
+		"answer": "England, Spain"
+	}, 
+
+	"Question 10": {
+		"question": "All host nations except for one have made it past the group stage. Which nation is that?",
+		"answer": "South Africa"
+
 	}
 	
 }
