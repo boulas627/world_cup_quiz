@@ -1,19 +1,18 @@
-from flask import Flask, redirect, url_for
+from flask import Flask, redirect, url_for, render_template
 import json
 import sys
 
-f = open('q_a.json')
-data = json.load(f)
-print(data["Question 1"])
+# f = open('q_a.json')
+# data = json.load(f)
+# print(data["Question 1"])
 
 
-sys.exit()
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='templates')
 
 @app.route('/')
-def hello_world(): 
-	return 'Hello world <h1>Sebastien Boulas</h1>'
+def home(): 
+	return render_template('home.html')
 
 @app.route("/<name>")
 def user(name): 

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home Page</title>
+</head>
+<body>
+
+<h1>Welcome To Sebastien's Fifa World Cup Quiz!. Please have fun</h1>
+
+<input type="text" name="input_name">
+
+<p id="quiz"></p>
+
+<script type="text/javascript">
+	const obj = JSON.parse("questions.json")
+	document.getElementById("quiz").innerHTML = obj
+</script>
+</body>
+</html>

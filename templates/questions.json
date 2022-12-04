@@ -1,0 +1,54 @@
+{
+	"Question 1": {
+		"question": "What is the furthest the United States have ever gone in a world cup?",
+		"answer": "Semifinals" 
+	},
+
+	"Question 2": {
+		"question": "Which country has won the most world cups?",
+		"answer": "Brazil"
+	}, 
+
+	"Question 3": {
+		"question": "Where is the 2022 world cup being held? ",
+		"answer": "Qatar"
+	},
+
+	"Question 4": {
+		"question": "When was the last time a non-European country won the world cup and which country was it?",
+		"answer": "Brazil in 2002"
+	},
+
+	"Question 5": {
+		"question": "There have been two countries outside of Europe and South America who have made it to a world cup semifinals. Who are those countries? ",
+		"answer 1": "United States and South Korea",
+		"answer 2": "South Korea and United States"
+	},
+
+	"Question 6": {
+		"question": "Which player has the most amount of goals in world cup history?",
+		"answer": "Miroslav Klose"
+	},
+
+	"Question 7": {
+		"question": "Where will the next world cup in 2026 be held?",
+		"answer": "United States, Canada, Mexico"
+	},
+
+	"Question 8": {
+		"question": "Please name the only African team that has made the semifinals of the world cup?",
+		"answer": "Not Available"
+	},
+
+	"Question 9": {
+		"question": "Please name all countries that have only won one world cup.",
+		"answer": "England, Spain"
+	}, 
+
+	"Question 10": {
+		"question": "All host nations except for one have made it past the group stage. Which nation is that?",
+		"answer": "South Africa"
+
+	}
+	
+}
