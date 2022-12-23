@@ -5,6 +5,7 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+  workflow_dispatch:
 
 jobs:
 
@@ -17,5 +18,5 @@ jobs:
     
     - name: Build the Docker image
       working-directory: world_cup_quiz
-      # run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
-      run: docker image build -t world_cup_quiz .
+      run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
+      # run: docker image build -t world_cup_quiz .
